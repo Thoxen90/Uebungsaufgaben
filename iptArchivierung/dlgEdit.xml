@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<wfDialogPage>
+	<wfDialogRow>
+		
+		<wfDialogField>
+			<NAME>TemplateName</NAME>
+			<DESC>TemplateName</DESC>
+			<TYPE>INPUT</TYPE>
+		</wfDialogField>
+		<wfDialogField>
+			<NAME>TemplateID</NAME>
+			<TYPE>HIDDEN</TYPE>
+		</wfDialogField>
+	</wfDialogRow>
+
+	<wfDialogRow>
+		<wfDialogField>
+			<NAME>TemplateView</NAME>
+			<DESC>TemplateView</DESC>
+			<TYPE>INPUT</TYPE>
+		</wfDialogField>
+		<wfDialogField>
+			<NAME>SystemReference</NAME>
+			<DESC>SystemReference</DESC>
+			<TYPE>INPUT</TYPE>
+			<VALUE>1</VALUE>
+		</wfDialogField>
+	</wfDialogRow>
+	<wfDialogRow>
+		<wfDialogField>
+			<NAME>TemplateText</NAME>
+			<DESC>TemplateText</DESC>
+			<TYPE>TEXTAREA</TYPE>
+			<MAXLENGTH>20</MAXLENGTH>     
+		</wfDialogField>
+	</wfDialogRow>
+</wfDialogPage>

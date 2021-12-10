@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<wfDialogPage>
+	<wfDialogRow>
+		<wfDialogField>
+			<NAME>OrderTypeID</NAME>
+			<DESC>OrderTypeID</DESC>
+			<TYPE>INPUT</TYPE>
+		</wfDialogField>
+		<wfDialogField>
+			<NAME>TemplateID</NAME>
+			<DESC>TemplateID</DESC>
+			<TYPE>INPUT</TYPE>
+		</wfDialogField>
+	</wfDialogRow>
+</wfDialogPage>
